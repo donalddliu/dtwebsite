@@ -170,7 +170,7 @@ class Auditions extends Component {
           <h1>Auditions</h1>
           <p>
             DanceTroupe auditions are divided between a Saturday and Sunday at
-            the beginning of each term. For Spring 2020, they will be held on
+            the beginning of each term. For Fall 2021, they will be held on
             February 8th and 9th in the BC Porter Room. More details can be
             found on the FB event{" "}
             <a
