@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Gallery from "react-photo-gallery";
 import "./static.css";
 
-const PANDEMIC = true; // Fall 2020 & Spring 2021 :(
+const PANDEMIC = false; // Fall 2020 & Spring 2021 :(
 
 // TODO(johanc) - Make it a gallery view.
 const auditionVideos = [
