@@ -19,17 +19,6 @@ class About extends Component {
           various dance workshops to our members and produce one full length
           show.
         </p>
-        <h3>Spring 2021 Update</h3>
-        <p>
-          {" "}
-          Last semester, DanceTroupe took a break from our usual structure when
-          we only hosted weekly workshops. This semester, we'll be returning to
-          (mostly)​ normal and putting on a whole virtual show! This means we'll
-          have auditions at the beginning of the semester, a large variety of
-          dances to choose from, weekly dance practices, and a big watch party
-          at the end of the semester :) We're really excited!
-          <br />
-        </p>
         <h3>Membership</h3>
         <p>
           Membership is open to everyone, regardless of experience level. We
@@ -76,7 +65,7 @@ class About extends Component {
           </Link>{" "}
           every semester, with five performances at the end of the semester. Our
           shows are made up of dances choreographed by students, and include
-          dance styles such as urban, jazz, ballet, tap, modern, and more. All
+          dance styles such as hip-hop inspired, jazz, ballet, tap, modern, and more. All
           members who want to participate in the show must attend{" "}
           <Link className="link-name" to="/auditions">
             auditions

@@ -202,9 +202,9 @@ class Auditions extends Component {
           <p>
             On Sunday, the full audition process begins. Each dancer is assigned
             an audition number corresponding to his/her preference sheet.
-            Dancers auditioning for contemporary should participate in the
-            contemporary auditions from 11 - 1pm. Those auditioning for urban
-            should participate in the urban auditions from 2 - 4pm. Tap
+            Dancers auditioning for contemporary dances should participate in the
+            contemporary auditions from 11 - 1pm. Those auditioning for hip-hop inspired 
+            dances should participate in the hip-hop inspired auditions from 2 - 4pm. Tap
             auditions are from 1 - 1:30pm, and step auditions are from 1:30pm to
             2pm. You are welcome to come learn both pieces, and any dancers who
             have preffed both styles should participate in both.

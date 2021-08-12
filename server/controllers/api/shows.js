@@ -40,7 +40,7 @@ app.get('/show-map',
     });
 
     // Sort dances in each show by style, then level within style
-    const sortingStyleArray = ["contemp", "fusion", "ballet", "tap", "latin", "latin/musical theater", "urban", "hip hop", "breaking, old-school hip hop, locking", "step", "heels", "bhangra", "african/carribean"];
+    const sortingStyleArray = ["contemp", "fusion", "ballet", "tap", "latin", "latin/musical theater", "hip-hop inspired", "hip hop", "breaking, old-school hip hop, locking", "step", "heels", "bhangra", "african/carribean"];
     const sortingLevelArray = ["beginner", "beg/int", "int", "int/adv", "advanced", "all levels"];
 
     for (let [_showKey, value] of Object.entries(showMap)) {
