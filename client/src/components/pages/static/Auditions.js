@@ -171,7 +171,7 @@ class Auditions extends Component {
           <p>
             DanceTroupe auditions are divided between a Saturday and Sunday at
             the beginning of each term. For Fall 2021, they will be held on
-            February 8th and 9th in the BC Porter Room. More details can be
+            September 11th and 12th in the DuPont Atheltic Center's basketball courts. More details can be
             found on the FB event{" "}
             <a
               className="link-name"
@@ -183,7 +183,7 @@ class Auditions extends Component {
             Auditions are a laid-back, fun process, so nothing should stop you
             from auditioning!
           </p>
-          <h3>Saturday</h3>
+          <h3>Saturday - Showcase</h3>
           <p>
             On Saturday, choreographer showcases are held. Each of the
             choreographers will demonstrate a snippet of their dance, talk about
@@ -198,16 +198,15 @@ class Auditions extends Component {
             preference sheet MUST be submitted by midnight on Saturday.
           </p>
 
-          <h3>Sunday</h3>
+          <h3>Sunday - Audition</h3>
           <p>
             On Sunday, the full audition process begins. Each dancer is assigned
             an audition number corresponding to his/her preference sheet.
             Dancers auditioning for contemporary dances should participate in the
             contemporary auditions from 11 - 1pm. Those auditioning for hip-hop inspired 
             dances should participate in the hip-hop inspired auditions from 2 - 4pm. Tap
-            auditions are from 1 - 1:30pm, and step auditions are from 1:30pm to
-            2pm. You are welcome to come learn both pieces, and any dancers who
-            have preffed both styles should participate in both.
+            auditions are from 1 - 2pm. You are welcome to come learn any of the pieces, and any dancers who
+            have preffed multiple styles are recommended to participate in those respective auditions.
           </p>
 
           <h3>Audition Process</h3>
