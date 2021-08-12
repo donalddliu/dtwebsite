@@ -171,11 +171,11 @@ class Auditions extends Component {
           <p>
             DanceTroupe auditions are divided between a Saturday and Sunday at
             the beginning of each term. For Fall 2021, they will be held on
-            September 11th and 12th in the DuPont Atheltic Center's basketball courts. More details can be
+            September 11th and 12th in the DuPont Athletic Center's basketball courts. More details can be
             found on the FB event{" "}
             <a
               className="link-name"
-              href="https://www.facebook.com/events/192443092115402/"
+              href="https://www.facebook.com/mitdancetroupe"
               target="_blank"
             >
               here.
