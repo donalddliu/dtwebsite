@@ -114,6 +114,11 @@ const photos = [
     height: 2,
     width: 3
   },
+  {
+    src: '/cpw_images/24.jpg',
+    height: 2,
+    width: 3
+  }
 ];
 
 module.exports = {
