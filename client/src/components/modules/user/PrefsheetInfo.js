@@ -12,7 +12,7 @@ const maxNumberOptions = [
 ];
 
 const terms = [
-  "I am able to perform in all five shows (Thu 5/7 8pm, Fri 5/8 7pm & 10pm, Sat 5/9 1pm & 4pm).",
+  "I am able to perform in all five shows (Thu 12/2 8pm, Fri 12/3 7pm & 10pm, Sat 12/4 1pm & 4pm).",
   "I understand that I must pay dues ($5 if paid on time), as well as a small amount for gifts at the end of the semester.",
   "I have filled out my weekly availabilities",
   // "I have submitted my video/s to the dropbox",
