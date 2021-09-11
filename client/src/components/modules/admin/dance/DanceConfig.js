@@ -9,6 +9,8 @@ export const styleOptions = [
     { key: 'a', text: 'Latin', value: 'latin' },
     { key: 'he', text: 'Heels', value: 'heels' },
     { key: 'o', text: 'Other', value: 'other' },
+    { key: 'j', text: 'Jazz', value: 'jazz'},
+    { key: 'jf', text: 'Jazz Funk', value: 'jazz funk'}
 ];
 
 export const levelOptions = [
