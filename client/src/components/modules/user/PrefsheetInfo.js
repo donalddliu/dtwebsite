@@ -16,7 +16,7 @@ const terms = [
   "I understand that I must pay dues ($5 if paid on time), as well as a small amount for gifts at the end of the semester.",
   "I have filled out my weekly availabilities",
   // "I have submitted my video/s to the dropbox",
-  //"I understand that the time commitment is 1 hour/week/dance, and I will be asked to submit videos for the final show.",
+  // "I understand that the time commitment is 1 hour/week/dance, and I will be asked to submit videos for the final show.",
 ];
 
 class PrefsheetInfo extends React.Component {
@@ -81,7 +81,7 @@ class PrefsheetInfo extends React.Component {
       <div>
         {!isLate && (
           <Message warning style={{ textAlign: "center" }}>
-            Prefsheets can be re-submitted until Sunday at 5PM. Dance
+            Prefsheets can be re-submitted until Sunday at 2AM. Dance
             descriptions{" "}
             <Link to="/shows" id="show-link">
               here
