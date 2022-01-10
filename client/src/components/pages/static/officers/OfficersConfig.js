@@ -11,13 +11,18 @@ const officerOptions = [
   },
   {
     position: "Vice President",
-    name: "Sage Simhon",
-    photoUrl: "/officer_images/Sage.jpg",
+    name: "Eva Smerekanych",
+    photoUrl: "/officer_images/Eva.jpg",
   },
   {
     position: "Treasurer",
     name: "Maya Redden",
     photoUrl: "/officer_images/Maya.jpg",
+  },
+  {
+    position: "Treasurer",
+    name: "Sophia Zheng",
+    photoUrl: "/officer_images/Sophia.jpg",
   },
   {
     position: "Pub Chair",
@@ -45,9 +50,19 @@ const officerOptions = [
     photoUrl: "/officer_images/Quentin.jpg",
   },
   {
+    position: "Social Chair",
+    name: "Kevin Sun Chen",
+    photoUrl: "/officer_images/Kevin.jpg",
+  },
+  {
     position: "Media Historian",
-    name: "Eva Smerekanych",
-    photoUrl: "/officer_images/Eva.jpg",
+    name: "Sean Li",
+    photoUrl: "/officer_images/Sean.jpg",
+  },
+  {
+    position: "Show Historian",
+    name: "Cady Boronkay",
+    photoUrl: "/officer_images/Cady.jpg"
   },
   {
     position: "Tech Coordinator",

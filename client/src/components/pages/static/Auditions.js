@@ -5,6 +5,7 @@ import "./static.css";
 const PANDEMIC = false; // Fall 2020 & Spring 2021 :(
 
 // TODO(johanc) - Make it a gallery view.
+// Audition videos for pandemic times
 const auditionVideos = [
   {
     src: "https://img.youtube.com/vi/5fi5fxetMGI/maxresdefault.jpg",
