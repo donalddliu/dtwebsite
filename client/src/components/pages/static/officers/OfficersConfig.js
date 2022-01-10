@@ -15,6 +15,11 @@ const officerOptions = [
     photoUrl: "/officer_images/Eva.jpg",
   },
   {
+    position: "Secretary",
+    name: "Maryann Chidume",
+    photoUrl: "/officer_images/Maryann.jpg",
+  },
+  {
     position: "Treasurer",
     name: "Maya Redden",
     photoUrl: "/officer_images/Maya.jpg",
@@ -35,16 +40,6 @@ const officerOptions = [
     photoUrl: "/officer_images/Irene.jpg",
   },
   {
-    position: "Secretary",
-    name: "Maryann Chidume",
-    photoUrl: "/officer_images/Maryann.jpg",
-  },
-  {
-    position: "Webmaster",
-    name: "Donald Liu",
-    photoUrl: "/officer_images/Donald.jpg",
-  },
-  {
     position: "Social Chair",
     name: "Quentin Thernize",
     photoUrl: "/officer_images/Quentin.jpg",
@@ -63,6 +58,11 @@ const officerOptions = [
     position: "Show Historian",
     name: "Cady Boronkay",
     photoUrl: "/officer_images/Cady.jpg"
+  },
+  {
+    position: "Webmaster",
+    name: "Donald Liu",
+    photoUrl: "/officer_images/Donald.jpg",
   },
   {
     position: "Tech Coordinator",
