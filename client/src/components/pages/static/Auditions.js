@@ -171,12 +171,12 @@ class Auditions extends Component {
           <h1>Auditions</h1>
           <p>
             DanceTroupe auditions are divided between a Saturday and Sunday at
-            the beginning of each term. For Fall 2021, they will be held on
-            September 11th and 12th in La Sala de Puerto Rico (2nd floor Student Center) and Du Pont Athletic Center's basketball courts respectively. More details can be
+            the beginning of each term. For Spring 2022, they will be held on
+            February 5th and 6th in Kresge Little Theatre and Du Pont Athletic Center's basketball courts respectively. More details can be
             found on the FB event{" "}
             <a
               className="link-name"
-              href="https://www.facebook.com/mitdancetroupe"
+              href="https://www.facebook.com/events/433767595170424/?ref=newsfeed"
               target="_blank"
             >
               here.
@@ -202,10 +202,10 @@ class Auditions extends Component {
           <h3>Sunday - Audition</h3>
           <p>
             On Sunday, the full audition process begins. Each dancer is assigned
-            an audition number corresponding to his/her preference sheet.
+            an audition number corresponding to your preference sheet.
             Dancers auditioning for contemporary dances should participate in the
             contemporary auditions from 11 - 1pm. Those auditioning for hip-hop inspired 
-            dances should participate in the hip-hop inspired auditions from 2 - 4pm. Tap
+            dances should participate in the hip-hop inspired auditions from 2 - 4pm. Lastly, tap
             auditions are from 1 - 2pm. You are welcome to come learn any of the pieces, and any dancers who
             have preffed multiple styles are recommended to participate in those respective auditions.
           </p>
