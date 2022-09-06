@@ -171,12 +171,12 @@ class Auditions extends Component {
           <h1>Auditions</h1>
           <p>
             DanceTroupe auditions are divided between a Saturday and Sunday at
-            the beginning of each term. For Spring 2022, they will be held on
-            February 5th and 6th in Kresge Little Theatre and Du Pont Athletic Center's basketball courts respectively. More details can be
+            the beginning of each term. For Fall 2022, they will be held on
+            September 10th and 11th in Lobby 13 and BC Porter Room respectively. More details can be
             found on the FB event{" "}
             <a
               className="link-name"
-              href="https://www.facebook.com/events/433767595170424/?ref=newsfeed"
+              href="https://fb.me/e/3pZyMPOkS"
               target="_blank"
             >
               here.
