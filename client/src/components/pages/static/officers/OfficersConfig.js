@@ -1,13 +1,13 @@
 const officerOptions = [
   {
     position: "Show Coordinator",
-    name: "Xochitl Luna",
-    photoUrl: "/officer_images/Xochitl.jpg",
+    name: "Maya Redden",
+    photoUrl: "/officer_images/Maya.jpg",
   },
   {
     position: "President",
-    name: "Amber Zheng",
-    photoUrl: "/officer_images/Amber.jpg",
+    name: "Maryann Chidume",
+    photoUrl: "/officer_images/Maryann.jpg",
   },
   {
     position: "Vice President",
@@ -16,13 +16,8 @@ const officerOptions = [
   },
   {
     position: "Secretary",
-    name: "Maryann Chidume",
-    photoUrl: "/officer_images/Maryann.jpg",
-  },
-  {
-    position: "Treasurer",
-    name: "Maya Redden",
-    photoUrl: "/officer_images/Maya.jpg",
+    name: "Angie Zhou",
+    photoUrl: "/officer_images/Angie.jpg",
   },
   {
     position: "Treasurer",
@@ -30,9 +25,14 @@ const officerOptions = [
     photoUrl: "/officer_images/Sophia.jpg",
   },
   {
+    position: "Treasurer",
+    name: "Dominique De Fiesta",
+    photoUrl: "/officer_images/Dominique.jpg",
+  },
+  {
     position: "Pub Chair",
-    name: "Jade Ishii",
-    photoUrl: "/officer_images/Jade.jpg",
+    name: "Hanu Park",
+    photoUrl: "/officer_images/Hanu.jpg",
   },
   {
     position: "Pub Chair",
@@ -41,8 +41,8 @@ const officerOptions = [
   },
   {
     position: "Social Chair",
-    name: "Quentin Thernize",
-    photoUrl: "/officer_images/Quentin.jpg",
+    name: "Sarah Wei",
+    photoUrl: "/officer_images/Sarah.jpg",
   },
   {
     position: "Social Chair",
@@ -61,18 +61,18 @@ const officerOptions = [
   },
   {
     position: "Webmaster",
-    name: "Donald Liu",
-    photoUrl: "/officer_images/Donald.jpg",
+    name: "Maria Fedyk",
+    photoUrl: "/officer_images/Maria.jpg",
   },
   {
     position: "Tech Coordinator",
-    name: "Montse Garza",
-    photoUrl: "/officer_images/Montse.jpg",
+    name: "Joshika Chakraverty",
+    photoUrl: "/officer_images/Joshika.jpg",
   },
   {
     position: "Costume Coordinator",
-    name: "Maria Fedyk",
-    photoUrl: "/officer_images/Maria.jpg",
+    name: "Nicole Shigiltchoff",
+    photoUrl: "/officer_images/Nicole.jpg",
   },
 ];
 
