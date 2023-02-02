@@ -171,12 +171,12 @@ class Auditions extends Component {
           <h1>Auditions</h1>
           <p>
             DanceTroupe auditions are divided between a Saturday and Sunday at
-            the beginning of each term. For Fall 2022, they will be held on
-            September 10th and 11th in Lobby 13 and BC Porter Room respectively. More details can be
+            the beginning of each term. For Spring 2023, they will be held on
+            February 11th and 12th in the BC Porter Room. More details can be
             found on the FB event{" "}
             <a
               className="link-name"
-              href="https://fb.me/e/3pZyMPOkS"
+              href="https://fb.me/e/400znePE9"
               target="_blank"
             >
               here.
@@ -205,8 +205,7 @@ class Auditions extends Component {
             an audition number corresponding to your preference sheet.
             Dancers auditioning for contemporary dances should participate in the
             contemporary auditions from 11 - 1pm. Those auditioning for hip-hop inspired 
-            dances should participate in the hip-hop inspired auditions from 2 - 4pm. Lastly, tap
-            auditions are from 1 - 2pm. You are welcome to come learn any of the pieces, and any dancers who
+            dances should participate in the hip-hop inspired auditions from 2 - 4pm. You are welcome to come learn any of the pieces, and any dancers who
             have preffed multiple styles are recommended to participate in those respective auditions.
           </p>
 
