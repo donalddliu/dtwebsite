@@ -11,8 +11,8 @@ const officerOptions = [
   },
   {
     position: "Vice President",
-    name: "Eva Smerekanych",
-    photoUrl: "/officer_images/Eva.jpg",
+    name: "Sarah Wei",
+    photoUrl: "/officer_images/Sarah.jpg",
   },
   {
     position: "Secretary",
@@ -36,13 +36,13 @@ const officerOptions = [
   },
   {
     position: "Pub Chair",
-    name: "Irene Terpstra",
-    photoUrl: "/officer_images/Irene.jpg",
+    name: "William Xu",
+    photoUrl: "/officer_images/William.jpg",
   },
   {
     position: "Social Chair",
-    name: "Sarah Wei",
-    photoUrl: "/officer_images/Sarah.jpg",
+    name: "Laasya Nagareddy",
+    photoUrl: "/officer_images/Laasya.jpg",
   },
   {
     position: "Social Chair",
@@ -56,8 +56,8 @@ const officerOptions = [
   },
   {
     position: "Show Historian",
-    name: "Cady Boronkay",
-    photoUrl: "/officer_images/Cady.jpg"
+    name: "Michelle Liang",
+    photoUrl: "/officer_images/Michelle.jpg"
   },
   {
     position: "Webmaster",
