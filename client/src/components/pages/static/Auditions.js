@@ -171,15 +171,15 @@ class Auditions extends Component {
           <h1>Auditions</h1>
           <p>
             DanceTroupe auditions are divided between a Saturday and Sunday at
-            the beginning of each term. For Spring 2023, they will be held on
-            February 11th and 12th in the BC Porter Room. More details can be
+            the beginning of each term. For <b>Fall 2023</b>, they will be held on
+            <b>September 9th and 10th, 2023</b> in the <b>BC Porter Room</b>. More details can be
             found on the FB event{" "}
             <a
               className="link-name"
-              href="https://fb.me/e/400znePE9"
+              href=""
               target="_blank"
             >
-              here.
+              (TBA).
             </a>{" "}
             Auditions are a laid-back, fun process, so nothing should stop you
             from auditioning!
