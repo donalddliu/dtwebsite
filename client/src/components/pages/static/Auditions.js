@@ -171,15 +171,14 @@ class Auditions extends Component {
           <h1>Auditions</h1>
           <p>
             DanceTroupe auditions are divided between a Saturday and Sunday at
-            the beginning of each term. For <b>Fall 2023</b>, they will be held on
-            <b>September 9th and 10th, 2023</b> in the <b>BC Porter Room</b>. More details can be
+            the beginning of each term. For <b>Fall 2023</b>, they will be held on <b><u>September 9th and 10th, 2023</u></b> in the <b><u>BC Porter Room</u></b>. More details can be
             found on the FB event{" "}
             <a
               className="link-name"
-              href=""
+              href="https://fb.me/e/4rub8jqQN"
               target="_blank"
             >
-              (TBA).
+              here (click me!).
             </a>{" "}
             Auditions are a laid-back, fun process, so nothing should stop you
             from auditioning!
@@ -203,9 +202,15 @@ class Auditions extends Component {
           <p>
             On Sunday, the full audition process begins. Each dancer is assigned
             an audition number corresponding to your preference sheet.
-            Dancers auditioning for contemporary dances should participate in the
-            contemporary auditions from 11 - 1pm. Those auditioning for hip-hop inspired 
-            dances should participate in the hip-hop inspired auditions from 2 - 4pm. You are welcome to come learn any of the pieces, and any dancers who
+	      <ul>
+            <li>Dancers auditioning for contemporary dances should participate in the
+            contemporary auditions from 11 - 1pm.</li> 
+            <li>Dancers auditioning for tap dance should participate in the
+            tap auditions from 1 - 2pm.</li> 
+	      <li>Those auditioning for hip-hop inspired 
+            dances should participate in the hip-hop inspired auditions from 2 - 4pm.</li>
+	      </ul>
+	    You are welcome to come learn any of the pieces, and any dancers who
             have preffed multiple styles are recommended to participate in those respective auditions.
           </p>
 
@@ -246,8 +251,15 @@ class Auditions extends Component {
           <p>
             Every semester, we have over 300 people attending our showcase and
             auditions. We understand that people may have conflicts, but we are
-            unable to offer makeups for missed auditions. We appreciate your
-            understanding in this manner.
+            unable to offer makeups for missed auditions. If you cannot attend auditions, please
+	    email us at{"  "}
+            <a
+              className="link-name"
+              href="mailto:dt-officers@mit.edu"
+              target="_blank"
+            >
+              dt-officers@mit.edu.
+            </a>{" "}
           </p>
           <p>
             The showcase is a mandatory event for the benefit of dancers
@@ -259,9 +271,15 @@ class Auditions extends Component {
           <p>
             All preference sheets must be submitted through the DanceTroupe
             website by midnight after the showcase. Do not email your
-            preferences to the officers or choreographers. Unfortunately, we are
-            unable to accommodate late submissions, and you may not audition
-            without submitting a preference sheet.
+            preferences to the officers or choreographers. If you have not submitted your preference sheet in time,
+	    please email us at{"  "}
+            <a
+              className="link-name"
+              href="mailto:dt-officers@mit.edu"
+              target="_blank"
+            >
+              dt-officers@mit.edu.
+            </a>{" "}
           </p>
         </div>
       );
