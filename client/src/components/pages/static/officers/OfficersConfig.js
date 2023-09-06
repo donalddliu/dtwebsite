@@ -1,38 +1,38 @@
 const officerOptions = [
   {
     position: "Show Coordinator",
-    name: "Maya Redden",
-    photoUrl: "/officer_images/Maya.jpg",
-  },
-  {
-    position: "President",
-    name: "Maryann Chidume",
-    photoUrl: "/officer_images/Maryann.jpg",
-  },
-  {
-    position: "Vice President",
-    name: "Sarah Wei",
-    photoUrl: "/officer_images/Sarah.jpg",
-  },
-  {
-    position: "Secretary",
-    name: "Angie Zhou",
-    photoUrl: "/officer_images/Angie.jpg",
-  },
-  {
-    position: "Treasurer",
     name: "Sophia Zheng",
     photoUrl: "/officer_images/Sophia.jpg",
   },
   {
+    position: "President",
+    name: "Sarah Wei",
+    photoUrl: "/officer_images/Sarah.jpg",
+  },
+  {
+    position: "Vice President",
+    name: "Angie Zhou",
+    photoUrl: "/officer_images/Angie.jpg",
+  },
+  {
+    position: "Secretary",
+    name: "Winona Liu",
+    photoUrl: "/officer_images/Winona.jpg",
+  },
+  {
     position: "Treasurer",
-    name: "Dominique De Fiesta",
-    photoUrl: "/officer_images/Dominique.jpg",
+    name: "Amy Hu",
+    photoUrl: "/officer_images/Amy.jpg",
+  },
+  {
+    position: "Treasurer",
+    name: "Lauren Aguilar",
+    photoUrl: "/officer_images/Lauren.jpg",
   },
   {
     position: "Pub Chair",
-    name: "Hanu Park",
-    photoUrl: "/officer_images/Hanu.jpg",
+    name: "Helen Wang",
+    photoUrl: "/officer_images/Helen.jpg",
   },
   {
     position: "Pub Chair",
@@ -46,13 +46,13 @@ const officerOptions = [
   },
   {
     position: "Social Chair",
-    name: "Kevin Sun Chen",
-    photoUrl: "/officer_images/Kevin.jpg",
+    name: "Hanu Park",
+    photoUrl: "/officer_images/Hanu.jpg",
   },
   {
     position: "Media Historian",
-    name: "Sean Li",
-    photoUrl: "/officer_images/Sean.jpg",
+    name: "Kezia Hector",
+    photoUrl: "/officer_images/Kezia.jpg",
   },
   {
     position: "Show Historian",
@@ -61,8 +61,8 @@ const officerOptions = [
   },
   {
     position: "Webmaster",
-    name: "Maria Fedyk",
-    photoUrl: "/officer_images/Maria.jpg",
+    name: "Sean Li",
+    photoUrl: "/officer_images/Sean.jpg",
   },
   {
     position: "Tech Coordinator",

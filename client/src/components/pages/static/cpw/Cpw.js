@@ -38,7 +38,7 @@ class Cpw extends Component {
       viewerIsOpen
     } = this.state;
     return (
-      <div className='static-page' id='cpw'>
+      <div className='display-page' id='cpw'>
         <h1>Gallery</h1>
         <p>While not being in person has filled us with <b><i>woah</i></b>,
         <br />
