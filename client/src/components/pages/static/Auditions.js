@@ -197,6 +197,28 @@ class Auditions extends Component {
             number of desired dances, as well as weekly conflicts. The
             preference sheet MUST be submitted by midnight on Saturday.
           </p>
+	  <p>
+	      To fill out a preference sheet, please{" "}
+	      <a className="link-name"
+	      href = "https://dancetroupe.mit.edu/login"
+	      target="_blank"
+	      >
+	      	create an account,
+	      </a>{" "}then{" "}
+	      <a className="link-name"
+	      href = "https://dancetroupe.mit.edu/profile"
+	      target="_blank">
+	      navigate to your Profile tab.
+	      </a>{" "}If you have any further questions, please
+	      email{" "}
+            <a
+              className="link-name"
+              href="mailto:dt-officers@mit.edu"
+              target="_blank"
+            >
+              dt-officers@mit.edu.
+            </a>{" "}
+	  </p>
 
           <h3>Sunday - Audition</h3>
           <p>
