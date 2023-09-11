@@ -7,10 +7,13 @@ const Show = require('../models/Show.js');
 
 // Default dates. The month and day are ignored for processing for weekly scheduling. 
 // Hardcoded to a random day that starts on Sunday.
-const weekStartDate = new Date(2019, 8, 1);
-const weekDays = 7; 
+const weekStartDate = new Date(2019, 7, 31);
+const weekDays = 8; 
 const weekStartHour = 12; // 12pm
-const weekEndHour = 22.5; // 10:30 pm will be the last time slot rendered.
+const weekEndHour = 26.5; // 10:30 pm will be the last time slot rendered.
+
+// SEAN: I DID A HACKY THING HERE PLEASE FIX IT TODO
+// SEE DATETIME BUG IN WEBMASTER DOC
 
 // TODO fall dates November 23-26, and December 1-2 2019.
 const prodStartDate = new Date(2019, 10, 23);

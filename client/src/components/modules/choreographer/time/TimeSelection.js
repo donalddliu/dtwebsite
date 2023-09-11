@@ -66,8 +66,8 @@ class TimeSelection extends Component {
 
   formatHour = (hour) => {
     const m = hour % 1 === 0.5 ? '30' : '00'
-    const intHour = Math.floor(hour)
-    const h = intHour === 0 || intHour === 12 || intHour === 24 ? 12 : intHour % 12
+    const intHour = Math.floor(hour) - 4 // SEAN: I DID SOMETHING HACKY HERE, PLEASE FIX TODO, SEE DATETIME
+    const h = (intHour === 0 || intHour === 12 || intHour === 24 ? 12 : intHour % 12) 
     const abb = intHour < 12 || intHour === 24 ? 'am' : 'pm'
     return `${h}:${m}${abb}`
   }
