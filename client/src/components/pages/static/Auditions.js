@@ -169,17 +169,11 @@ class Auditions extends Component {
       return (
         <div className="static-page">
           <h1>Auditions</h1>
+	  <h2><b>Showcase</b> — February 10, 2024 (Lobby 13)</h2>
+	  <h2><b>Auditions</b> — February 11, 2024 (BC Porter Room)</h2>
           <p>
             DanceTroupe auditions are divided between a Saturday and Sunday at
-            the beginning of each term. For <b>Fall 2023</b>, they will be held on <b><u>September 9th and 10th, 2023</u></b> in the <b><u>BC Porter Room</u></b>. More details can be
-            found on the FB event{" "}
-            <a
-              className="link-name"
-              href="https://fb.me/e/4rub8jqQN"
-              target="_blank"
-            >
-              here (click me!).
-            </a>{" "}
+            the beginning of each term. For <b>Spring 2024</b>, they will be held on <b><u>February 10th and 11th, 2024</u></b> in <b><u>Lobby 13</u></b> and the <b><u>BC Porter Room</u></b>, respectively. 
             Auditions are a laid-back, fun process, so nothing should stop you
             from auditioning!
           </p>
@@ -217,7 +211,7 @@ class Auditions extends Component {
               target="_blank"
             >
               dt-officers@mit.edu.
-            </a>{" "}
+            </a>
 	  </p>
 
           <h3>Sunday - Audition</h3>
