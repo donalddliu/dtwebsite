@@ -40,19 +40,7 @@ class Cpw extends Component {
     return (
       <div className='display-page' id='cpw'>
         <h1>Gallery</h1>
-        <p>While not being in person has filled us with <b><i>woah</i></b>,
-        <br />
-        Come meet the community we’ve all come to know.
-        <br />
-        We can’t wait to meet all of you <b><i>folks</i></b>,
-        <br />
-        And give you a <b><i>dab</i></b> of DT—the dance, fun, and jokes.
-        <br />
-            -Matt Tung 2020
-        </p>
-        <video width="500" height="290" controls="controls">
-          <source src="https://www.dropbox.com/s/vgnqj9e3glkbeqn/DT%20CP%2A%20Pub%20final.mov?raw=1" type="video/mp4" />
-        </video>
+	    <p>At the end of each semester, DanceTroupe hosts dance shows for the MIT and greater Boston community to enjoy! Here are some photos from those shows to give you a taste of what DT is like :)</p>
         <Gallery direction='column' photos={photos} onClick={this.openLightbox} />
         <ModalGateway>
           {viewerIsOpen ? (
