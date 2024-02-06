@@ -17,7 +17,7 @@ const officerOptions = [
   {
     position: "Secretary",
     name: "Nithya Kothnur",
-    photoUrl: "/officer_images/Winona.jpg",
+    photoUrl: "/officer_images/Nithya.jpg",
   },
   {
     position: "Treasurer",
