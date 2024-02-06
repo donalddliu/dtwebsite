@@ -11,18 +11,18 @@ const officerOptions = [
   },
   {
     position: "Vice President",
-    name: "Angie Zhou",
-    photoUrl: "/officer_images/Angie.jpg",
-  },
-  {
-    position: "Secretary",
     name: "Winona Liu",
     photoUrl: "/officer_images/Winona.jpg",
   },
   {
+    position: "Secretary",
+    name: "Nithya Kothnur",
+    photoUrl: "/officer_images/Winona.jpg",
+  },
+  {
     position: "Treasurer",
-    name: "Amy Hu",
-    photoUrl: "/officer_images/Amy.jpg",
+    name: "Angie Zhou",
+    photoUrl: "/officer_images/Angie.jpg",
   },
   {
     position: "Treasurer",
@@ -36,8 +36,8 @@ const officerOptions = [
   },
   {
     position: "Pub Chair",
-    name: "William Xu",
-    photoUrl: "/officer_images/William.jpg",
+    name: "Ekanem Okeke",
+    photoUrl: "/officer_images/Ekanem.jpg",
   },
   {
     position: "Social Chair",
