@@ -169,11 +169,11 @@ class Auditions extends Component {
       return (
         <div className="static-page">
           <h1>Auditions</h1>
-	  <h2><b>Showcase</b> — February 10, 2024 (Lobby 13)</h2>
-	  <h2><b>Auditions</b> — February 11, 2024 (BC Porter Room)</h2>
+	  <h2><b>Showcase</b> — February 10, 2024 (Lobby 13), 10am to 12pm</h2>
+	  <h2><b>Auditions</b> — February 11, 2024 (BC Porter Room), times below</h2>
           <p>
             DanceTroupe auditions are divided between a Saturday and Sunday at
-            the beginning of each term. For <b>Spring 2024</b>, they will be held on <b><u>February 10th and 11th, 2024</u></b> in <b><u>Lobby 13</u></b> and the <b><u>BC Porter Room</u></b>, respectively. 
+            the beginning of each term. For <b>Spring 2024</b>, they will be held on <b><u>February 10th and 11th, 2024</u></b> in <b><u>Lobby 13</u></b> and the <b><u>BC Porter Room</u></b>, respectively. Here is the <a href="https://fb.me/e/58nsItjY0">here (click me!)</a>. 
             Auditions are a laid-back, fun process, so nothing should stop you
             from auditioning!
           </p>
@@ -221,8 +221,8 @@ class Auditions extends Component {
 	      <ul>
             <li>Dancers auditioning for contemporary dances should participate in the
             contemporary auditions from 11 - 1pm.</li> 
-            <li>Dancers auditioning for tap dance should participate in the
-            tap auditions from 1 - 2pm.</li> 
+            <li>Dancers auditioning for ballet dances should participate in the
+            ballet auditions from 1 - 2pm.</li> 
 	      <li>Those auditioning for hip-hop inspired 
             dances should participate in the hip-hop inspired auditions from 2 - 4pm.</li>
 	      </ul>
