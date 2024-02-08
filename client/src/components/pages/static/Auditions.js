@@ -173,7 +173,7 @@ class Auditions extends Component {
 	  <h2><b>Auditions</b> — February 11, 2024 (BC Porter Room), times below</h2>
           <p>
             DanceTroupe auditions are divided between a Saturday and Sunday at
-            the beginning of each term. For <b>Spring 2024</b>, they will be held on <b><u>February 10th and 11th, 2024</u></b> in <b><u>Lobby 13</u></b> and the <b><u>BC Porter Room</u></b>, respectively. Here is the <a href="https://fb.me/e/58nsItjY0">here (click me!)</a>. 
+            the beginning of each term. For <b>Spring 2024</b>, they will be held on <b><u>February 10th and 11th, 2024</u></b> in <b><u>Lobby 13</u></b> and the <b><u>BC Porter Room</u></b>, respectively. Here is the <a href="https://fb.me/e/58nsItjY0">Facebook event (click me!)</a>. 
             Auditions are a laid-back, fun process, so nothing should stop you
             from auditioning!
           </p>
