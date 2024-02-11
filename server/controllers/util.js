@@ -7,9 +7,9 @@ const Show = require('../models/Show.js');
 
 // Default dates. The month and day are ignored for processing for weekly scheduling. 
 // Hardcoded to a random day that starts on Sunday.
-const weekStartDate = new Date(2019, 8, 2);
+const weekStartDate = new Date(2019, 8, 1);
 const weekDays = 7; 
-const weekStartHour = 12; // 12pm
+const weekStartHour = 12 + 4; // 12pm
 const weekEndHour = 22.5; // 10:30 pm will be the last time slot rendered.
 
 // SEAN: I DID A HACKY THING HERE PLEASE FIX IT TODO
