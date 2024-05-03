@@ -62,6 +62,8 @@ class Shows extends Component {
             Our shows are some of the most highly anticipated and well-attended events on campus.
             We showcase a variety of dance styles, such as hip-hop inspired, contemporary, tap, jazz, and more!
         </p>
+
+	    <h3>Our next show is on May 9, May 10, and May 11. <a href="https://mit.universitytickets.com/w/event.aspx?SeriesID=111">See here for tickets (click me!).</a></h3>
           <span>
             Currently viewing{' '}
             <Dropdown

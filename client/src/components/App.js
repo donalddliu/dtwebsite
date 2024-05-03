@@ -52,8 +52,10 @@ class App extends React.Component {
       "/site_images/bg/bg1.jpeg",
       "/site_images/bg/bg2.jpeg",
       "/site_images/bg/bg3.jpeg",
+      "/site_images/bg/bg4.jpeg",
+      "/site_images/bg/bg5.jpeg",
     ];
-    this.animDuration = 4;
+    this.animDuration = 15;
 
     this.state = {
       userInfo: null,

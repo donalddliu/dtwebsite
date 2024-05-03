@@ -169,8 +169,7 @@ class Auditions extends Component {
       return (
         <div className="static-page">
           <h1>Auditions</h1>
-	  <h2><b>Showcase</b> — February 10, 2024 (Lobby 13), 10am to 12pm</h2>
-	  <h2><b>Auditions</b> — February 11, 2024 (BC Porter Room), times below</h2>
+	    <h2>Our next show is on May 9, May 10, and May 11. <a href="https://mit.universitytickets.com/w/event.aspx?SeriesID=111">See here for tickets (click me!).</a></h2>
           <p>
             DanceTroupe auditions are divided between a Saturday and Sunday at
             the beginning of each term. For <b>Spring 2024</b>, they will be held on <b><u>February 10th and 11th, 2024</u></b> in <b><u>Lobby 13</u></b> and the <b><u>BC Porter Room</u></b>, respectively. Here is the <a href="https://fb.me/e/58nsItjY0">Facebook event (click me!)</a>. 
