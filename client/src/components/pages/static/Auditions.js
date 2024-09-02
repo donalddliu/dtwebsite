@@ -169,6 +169,16 @@ class Auditions extends Component {
       return (
         <div className="static-page">
           <h1>Auditions</h1>
+          <h2>TLDR</h2>
+          <p>
+            <b>Date:</b> September 7th and 8th, 2024<br />
+            <b>Location:</b> Lobby 13 (Saturday) and BC Porter Room (Sunday)<br />
+            <b>Saturday:</b> Choreographer showcases and preference sheet submission<br />
+            <b>Sunday:</b> Audition day with different styles at specific times (Tap, Contemporary, Ballet, Hip-Hop)<br />
+            <b>Results:</b> Announced Sunday evening, practices begin Monday<br />
+            <b>Questions?</b> Email <a href="mailto:dt-officers@mit.edu">dt-officers@mit.edu</a>
+          </p>
+
           <p>
             DanceTroupe auditions are divided between a Saturday and a Sunday at
             the beginning of each term. For <b>Fall 2024</b>, they will be held on <b><u>September 7th and 8th, 2024</u></b> in <b><u>Lobby 13</u></b> and the <b><u>BC Porter Room</u></b>, respectively. 
