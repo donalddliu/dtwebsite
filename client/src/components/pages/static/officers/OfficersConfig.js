@@ -1,38 +1,38 @@
 const officerOptions = [
   {
     position: "Show Coordinator",
-    name: "Sophia Zheng",
-    photoUrl: "/officer_images/Sophia.jpg",
+    name: "Michelle Liang",
+    photoUrl: "/officer_images/Michelle.jpg",
   },
   {
     position: "President",
-    name: "Sarah Wei",
-    photoUrl: "/officer_images/Sarah.jpg",
+    name: "Sean Li",
+    photoUrl: "/officer_images/Sean.jpg",
   },
   {
     position: "Vice President",
-    name: "Winona Liu",
-    photoUrl: "/officer_images/Winona.jpg",
-  },
-  {
-    position: "Secretary",
     name: "Nithya Kothnur",
     photoUrl: "/officer_images/Nithya.jpg",
   },
   {
-    position: "Treasurer",
-    name: "Angie Zhou",
-    photoUrl: "/officer_images/Angie.jpg",
+    position: "Secretary",
+    name: "Marina Nogueira",
+    photoUrl: "/officer_images/Marina.jpg",
   },
   {
     position: "Treasurer",
-    name: "Lauren Aguilar",
-    photoUrl: "/officer_images/Lauren.jpg",
+    name: "Nikhita Law",
+    photoUrl: "/officer_images/Nikhita.jpg",
+  },
+  {
+    position: "Treasurer",
+    name: "Winona Liu",
+    photoUrl: "/officer_images/Winona.jpg",
   },
   {
     position: "Pub Chair",
-    name: "Helen Wang",
-    photoUrl: "/officer_images/Helen.jpg",
+    name: "Jade Durham",
+    photoUrl: "/officer_images/Jade.jpg",
   },
   {
     position: "Pub Chair",
@@ -41,28 +41,28 @@ const officerOptions = [
   },
   {
     position: "Social Chair",
-    name: "Laasya Nagareddy",
-    photoUrl: "/officer_images/Laasya.jpg",
+    name: "Rachel Waggoner",
+    photoUrl: "/officer_images/Rachel.jpg",
   },
   {
     position: "Social Chair",
-    name: "Hanu Park",
-    photoUrl: "/officer_images/Hanu.jpg",
+    name: "Sruthi Shekar",
+    photoUrl: "/officer_images/Sruthi.jpg",
   },
   {
     position: "Media Historian",
-    name: "Kezia Hector",
-    photoUrl: "/officer_images/Kezia.jpg",
+    name: "Andrew Welter",
+    photoUrl: "/officer_images/Andrew.jpg",
   },
   {
     position: "Show Historian",
-    name: "Michelle Liang",
-    photoUrl: "/officer_images/Michelle.jpg"
+    name: "Sophie Lu",
+    photoUrl: "/officer_images/Sophie.jpg"
   },
   {
     position: "Webmaster",
-    name: "Sean Li",
-    photoUrl: "/officer_images/Sean.jpg",
+    name: "Konnie Duan",
+    photoUrl: "/officer_images/Konnie.jpg",
   },
   {
     position: "Tech Coordinator",
@@ -71,8 +71,8 @@ const officerOptions = [
   },
   {
     position: "Costume Coordinator",
-    name: "Nicole Shigiltchoff",
-    photoUrl: "/officer_images/Nicole.jpg",
+    name: "Leticia Stroeh",
+    photoUrl: "/officer_images/Leticia.jpg",
   },
 ];
 
