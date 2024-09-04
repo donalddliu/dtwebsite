@@ -63,7 +63,7 @@ class Shows extends Component {
             We showcase a variety of dance styles, such as hip-hop inspired, contemporary, tap, jazz, and more!
         </p>
 
-	    <h3>Our next show is on May 9, May 10, and May 11. <a href="https://mit.universitytickets.com/w/event.aspx?SeriesID=111">See here for tickets (click me!).</a></h3>
+	    <h3>Fall 2024 setlist announced Saturday, September 7 at showcase.</h3>
           <span>
             Currently viewing{' '}
             <Dropdown
