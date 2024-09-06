@@ -46,7 +46,7 @@ const officerOptions = [
   },
   {
     position: "Social Chair",
-    name: "Sruthi Shekar",
+    name: "Sruthi Parthasarathi",
     photoUrl: "/officer_images/Sruthi.jpg",
   },
   {
