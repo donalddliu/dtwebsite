@@ -30,4 +30,5 @@ export const auditionNoteOptions = [
     { key: 'b', text: 'Attend BOTH Contemp Audition and Hip-Hop Inspired Audition', value: 'attend both contemp audition and hip-hop inspired audition' },
     { key: 'ta', text: 'Attend Tap Audition', value: 'attend tap audition' },
     { key: 'st', text: 'Attend Step Audition', value: 'attend step audition' },
+    { key: 'ba', text: 'Attend Ballet Audition', value: 'attend ballet audtion'}
 ];
