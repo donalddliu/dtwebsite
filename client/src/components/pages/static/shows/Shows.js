@@ -56,6 +56,10 @@ class Shows extends Component {
 
     return (
       <div className='static-page'>
+        <h1>Fall 24: BraDT</h1>
+        <p>Buy tickets for our fall 2024 show!</p>
+        <a href="https://mit.universitytickets.com/w/event.aspx?SeriesID=132">Buy tickets here!</a>
+        <a href="https://www.facebook.com/mitdancetroupe/events/?id=100064360732731&sk=events">Facebook event here!</a>
         <h1>Shows</h1>
         <div id='show-description'>
           <p>
